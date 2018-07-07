@@ -1,0 +1,27 @@
+{
+  "name": "pizero-oled",
+  "version": "1.0.1",
+  "description": "Step-by-step instructions for setting up a Raspberry Pi Zero W with an Adafruit 1.3\" OLED bonnet",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OutsourcedGuru/pizero-oled.git"
+  },
+  "keywords": [
+    "raspberry-pi",
+    "oled",
+    "raspbian",
+    "tutorial",
+    "example",
+    "python"
+  ],
+  "author": "OutsourcedGuru <support@outsourced.guru> (https://github.com/OutsourcedGuru)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OutsourcedGuru/pizero-oled/issues"
+  },
+  "homepage": "https://github.com/OutsourcedGuru/pizero-oled#readme"
+}
