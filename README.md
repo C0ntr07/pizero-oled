@@ -1,6 +1,8 @@
 # pizero-oled
 Step-by-step instructions for setting up a Raspberry Pi Zero W with an Adafruit 1.3" OLED bonnet
 
+![img_0041](https://user-images.githubusercontent.com/15971213/42415044-fbdf9d0a-81f7-11e8-800a-511776e2241a.jpg)
+
 ## Parts
 For this, you'll minimally need:
 
